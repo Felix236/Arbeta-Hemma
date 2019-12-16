@@ -1,0 +1,10 @@
+html {
+	background-color: maroon;
+}
+
+body {
+    background-color: orangered;
+    margin: auto;
+    max-width: 600px;
+    height: 1200px
+}
